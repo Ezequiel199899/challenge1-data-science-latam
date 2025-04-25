@@ -34,4 +34,4 @@ print(f"Tienda 4: Ingresos: {ingresos_4}, Costo de envíos: {envios_4}, Califica
 
 # Tomar la decisión de cierre
 decision = "Cerrar la tienda 1 debido a menor desempeño financiero, altos costos de envío y calificaciones bajas."
-print("Decisión final:", decision)
+print("Decisión final:", decision) la desicion se tomó en base a lay de concursos y quintas argentina pese a qué esto es Colombia el program analista los dos y en base al análisis la tienda uno tiene la mayor perdida 
